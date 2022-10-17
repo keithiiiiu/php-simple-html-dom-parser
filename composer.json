@@ -1,25 +1,26 @@
 {
-    "name": "keithiiiiu/php-simple-html-dom-parser",
+    "name": "sunra/php-simple-html-dom-parser",
     "type": "library",
     "description": "Composer adaptation of: A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way! Require PHP 5+. Supports invalid HTML. Find tags on an HTML page with selectors just like jQuery. Extract contents from HTML in a single line.",    
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/keithiiiiu/php-simple-html-dom-parser",
+    "homepage": "https://github.com/sunra/php-simple-html-dom-parser",
     "license": "MIT",
     "authors": [
         {   
-            "name": "keithiiiiu",
-            "homepage": "https://github.com/keithiiiiu/php-simple-html-dom-parser"
+            "name": "S.C. Chen",
+            "homepage": "http://sourceforge.net/projects/simplehtmldom/"
         },
         {
-            "name": "keithiiiiu",
-            "homepage": "https://github.com/keithiiiiu"
+            "name": "Sunra",
+            "email": "sunra@yandex.ru",
+            "homepage": "https://github.com/sunra"
         }   
     ],
     "require": {
-        "php": ">=7.3.0",
+        "php": ">=5.3.2",
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-0": { "keithiiiiu\\PhpSimple\\HtmlDomParser": "Src/" }
+        "psr-0": { "Sunra\\PhpSimple\\HtmlDomParser": "Src/" }
     }    
 }

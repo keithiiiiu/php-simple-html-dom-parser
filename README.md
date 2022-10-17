@@ -1,9 +1,6 @@
 php-simple-html-dom-parser
 ==========================
 
-Fork from: https://github.com/sunra/php-simple-html-dom-parser
-and added this file: https://github.com/WebSergeevDima/php-simple-html-dom-parser
-
 Version 1.5.2
 
 Adaptation for Composer and PSR-0 of:
