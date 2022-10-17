@@ -24,6 +24,8 @@ Install
     }
 ```
 
+
+
 Usage
 -----
 
@@ -45,3 +47,5 @@ $elems = $dom->find($elem_name);
 Updates
 -----
 combined with this file: https://github.com/sunra/php-simple-html-dom-parser
+
+> composer require keithiiiiu/php-simple-html-dom-parser
